@@ -1,0 +1,10 @@
+flask
+openai
+langchain
+numpy
+pandas
+scikit-learn
+faiss-cpu
+python-dotenv
+requests
+gunicorn
